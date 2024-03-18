@@ -1,1 +1,67 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Roseline Jerry Aloor</title>
+	<link rel="icon" href="caticon.png" type="image/png" />
+  </head>
+  <body>
+    <div id="navigation">
+        <span class="navigation_items"><a href="index.html" class="nocolor">.  Home  .</a></span>
+        <span class="navigation_items"><a href="coursework.html" class="nocolor">.  Coursework  .</a></span>
+	<span class="navigation_items"><a href="fun.html" class="nocolor">.  For Fun  .</a></span>
+        <!--<span class="navigation_items"><a href="resume.pdf" class="nocolor">.  Curriculum Vitae  .</a></span>-->
+        </div>
+    <main>
+        <h1>Roseline Jerry Aloor</h1>  
+    </main>
+
+
+    <img height="500" id="image" src="" onclick="randImg()" />
+
+    <script>
+        var images = [
+            "my_pic_website_4.jpg",
+            "my_pic_website_5.jpg",
+	    "my_pic_website_6.jpg",
+            "my_pic_website_8.jpg",
+        ];
+
+        function randImg() {
+            var size = images.length
+            var x = Math.floor(size * Math.random())
+            document.getElementById('image').src = images[x];
+        }
+
+        randImg();
+    </script>
+
+    
+    <div1>
+      <br> Welcome :D This is my personal website. It is under construction! It's a simple little static HTML page for now.
+    </div1>
+    <div2>
+      <h2> About me: </h2>
+      I'm a 3rd Year Computer Science and Engineering Undergraduate at <a href = "https://pes.edu/">PES University</a>, Bangalore, India. I am interested in theoretical computer science and mathematics. 
+      <br><br> Currently, I'm working on topics in <b>Fast Polynomial Algorithms</b> and <b>Constraint Satisfaction Problems (over finite structures)</b>.
+    </div2>
+
+    <div3>
+      <h2> News </h2>
+ 	<h3> 2024 </h3>
+	<h3> 2023 </h3>	
+		<b>[29 May - 27 July]</b> I spent a lovely summer working under the supervision of <a href = "https://suryajith.github.io/">Prof. Suryajith Chillara</a> at <a href = "https://cstar.iiit.ac.in/">CSTAR</a>, <a href = "https://www.iiit.ac.in/">IIIT Hyderabad</a> as part of the <a href = "https://ihub-data.ai/archives/events/shristi-23/">SRISHTI-2023</a> Program. 
+    </div3>
+
+
+    
+    <div4>
+      <h3>Get in touch! </h3>
+      Email: roselinejerry17 at gmail dot com 
+      <br>Linkedin: <a href = "https://www.linkedin.com/in/rxlnj/">rxlnj</a>
+    </div4>
+    <br><br> Last updated: 18 March 2024
+  </body>
+</html>
