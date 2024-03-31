@@ -1,0 +1,55 @@
+UNIT 1: INTEGRAL CALCULUS
+1 Double integrals: Introduction, Evaluation
+2 Application of double integrals: Area, Volume of the solid and Average value of the function.
+3 Jacobian, Change of variables in Double integral (Polar coordinates)
+4 Problems on change of variables in double integral
+5 Change of order of integration
+6 Triple Integrals: Introduction and Evaluation
+7-8 Application of triple integrals: Volume and Average value of the function
+9-10 Change of variables in triple integral (Spherical and Cylindrical)
+11 Applications of Multiple integrals: Area and volume.
+12 Center of Mass and Moment of Inertia.
+
+UNIT 2: VECTOR CALCULUS
+
+1 Introduction to vector differentiation and Gradient of a scalar function.
+2 Directional derivatives, Angle between the surfaces
+3 Divergence,
+4 Curl and related properties
+5 Application problems on Gradient, divergence and curl.
+6 Introduction to line, surface and volume integrals
+7 Problems on line Surface and Volume integral
+8 Green’s theorem
+9 Problems on Green’s theorem
+10 Stoke’s theorem
+11 Problems on Stoke’s theorem
+12 Gauss’s Divergence theorem
+
+UNIT 3- LAPLACE TRANSFORMS
+1 Laplace transforms, Applications, Advantages and sufficient conditions for Existence of Laplace transform
+2-3 Laplace transform of standard functions
+4-5 General properties of Laplace transforms: Linearity, change of scale, First shift theorem, Laplace transform of derivatives, Laplace transform of integrals, Multiplication by 𝑡𝑛and Division by t.
+6-7 Problems based on the properties of Laplace transforms.
+8 Laplace transform of periodic function: Statement and problems.
+9 Laplace transform of Unit step function
+10 Second shifting property
+11 Laplace transform of unit impulse function
+
+UNIT 4 - INVERSE LAPLACE TRANSFORMS
+
+1 Definition and Inverse Laplace transform of standard functions.
+2 General properties of Inverse Laplace transforms: Linearity, first shift, Change of scale.
+3-4 Inverse Laplace transform of derivatives, Integrals, Multiplication by s, Division by s, Second shifting theorem.
+5-6 Problems based on above discussed properties.
+7 Inverse Laplace transforms using partial fractions.
+8-9 Convolution theorem: Statement, applications, and problems.
+10-11 Applications of Laplace transforms to solve Differential equations.
+
+UNIT 5- FOURIER SERIES
+1 Introduction to Fourier Series, Dirchlet's conditions, Euler's formulae
+2 Fourier Series of Even and Odd functions
+3-4 Problems on Fourier Series
+5 Half -range Fourier series
+6 Parseval's Identity
+7-8 Practical Harmonic Analysis
+9-10 Complex form of Fourier series

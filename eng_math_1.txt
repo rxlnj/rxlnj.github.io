@@ -1,0 +1,14 @@
+UNIT 1: SEQUENCES AND SERIES
+Sequences of real numbers, Limit of a sequence, Convergent and Divergent sequences, Sub sequence, Monotone sequences, Bounded sequences, Monotone Convergence theorem (statement only). Infinite Series, Convergence tests for a series of positive terms, Geometric Series and its convergence, Integral test, Comparison tests, D Alemberts Ratio test, Raabes test and Cauchys Root test.
+
+UNIT 2: PARTIAL DIFFERENTIATION
+Introduction to Partial Differentiation, Geometrical Interpretation, Total Derivative, Chain rule, Partial Differentiation of Composite and Implicit functions, Homogeneous functions and Euler’s Theorem, Taylor’s & Maclaurin’s Series expansion for a function of two variables, Maxima and Minima for a function of two variables, Lagrange’s Method of undetermined multipliers for two variable.
+
+UNIT 3: ORDINARY DIFFERENTIAL EQUATIONS
+Linear and Reducible to Linear (Bernoulli as a particular case), Exact, Reducible to Exact, Orthogonal Trajectories (Cartesian and Polar forms), Solution of first order Non-Linear Differential Equations, Equations solvable for p, Equations solvable for y, and Equations solvable for x. Application – Newton’s law of cooling.
+
+UNIT 4: HIGHER ORDER DIFFERENTIAL EQUATIONS
+Introduction to Higher Order Differential Equations, Complementary Function and Particular Integrals of standard functions, Method of Variation of Parameters. Cauchys and Legendres Differential Equations, Applications – Simple Harmonic Oscillation.
+
+UNIT 5: SPECIAL FUNCTIONS
+Beta-Gamma Functions – Definition, Properties and Graphs, Relation between Beta-Gamma Functions, Duplication Formula, Reflection Formula (statements only), Series solution of Bessel’s Differential Equation, Recurrence Relations for Jn(x), Generating Function for Jn(x)  (Statement Only), Jacobi Series and Bessels Integral Formula.
