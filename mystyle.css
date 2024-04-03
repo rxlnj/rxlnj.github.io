@@ -1,0 +1,61 @@
+/* mystyle.css */
+
+
+body {
+  --text-color: #222;
+  --bkg-color: #fff;
+  --link-color: #0000ff; /* Default link color */
+  --visited-link-color: #800080; /* Default visited link color */
+}
+body.dark-theme {
+  --text-color: #eee;
+  --bkg-color: #121212;
+  --link-color: #66c2ff; /* Brighter link color for dark mode */
+  --visited-link-color: #b381ff; /* Brighter visited link color for dark mode */
+}
+
+@media (prefers-color-scheme: dark) {
+  /* defaults to dark theme */
+  body {
+    --text-color: #eee;
+    --bkg-color: #121212;
+    --link-color: #66c2ff; /* Brighter link color for dark mode */
+    --visited-link-color: #b381ff; /* Brighter visited link color for dark mode */
+  }
+  body.light-theme {
+    --text-color: #222;
+    --bkg-color: #fff;
+    --link-color: #0000ff; /* Default link color */
+    --visited-link-color: #800080; /* Default visited link color */
+  }
+}
+
+/* * {
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+body {
+  background: var(--bkg-color);
+}
+
+*:not(button){
+  color: var(--text-color);
+}
+
+a:link {
+  color: var(--link-color); /* Set default link color */
+}
+
+a:visited {
+  color: var(--visited-link-color); /* Set default visited link color */
+}
+
+body {
+  position: relative;
+}
+
+.btn-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
