@@ -50,12 +50,18 @@ a:visited {
   color: var(--visited-link-color); /* Set default visited link color */
 }
 
+
+
+
+
+
+
 body {
   position: relative;
 }
 
 .btn-toggle {
   position: fixed;
-  top: 20px;
+  top: 30px;
   right: 20px;
 }
