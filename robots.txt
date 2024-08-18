@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /coursework.html
+Disallow: /fun.html
+Disallow: /research.html
