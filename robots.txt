@@ -2,3 +2,7 @@ User-agent: *
 Disallow: /coursework.html
 Disallow: /fun.html
 Disallow: /research.html
+Disallow: /notes.html
+
+User-agent: Googlebot-Image
+Disallow: /
